@@ -221,7 +221,7 @@ function Hero() {
             lineHeight: 1.6,
           }}
         >
-          Software Developer · building solutions that work
+          Software Developer · building staff
         </p>
 
         <div
