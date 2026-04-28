@@ -221,7 +221,7 @@ function Hero() {
             lineHeight: 1.6,
           }}
         >
-          Software Developer · building staff
+          Software Developer · building stuff
         </p>
 
         <div
