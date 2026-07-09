@@ -617,7 +617,7 @@ function Kokemus() {
       company: "Evitec Oy",
       role: "Software engineer",
       period: "2021–2025",
-      desc: "Designing and developing a modern SaaS lending platform for the financial sector. Key clients: Valtiokonttori and Kuntarahoitus. Mentored 3 junior developers. Responsible for full frontend/backend development, CI/CD pipelines on Azure, and database solutions.",
+      desc: "Designing and developing a modern SaaS lending platform for the financial sector. Key clients: Valtiokonttori and Kuntarahoitus. Mentored junior developers. Responsible for full frontend/backend development, CI/CD pipelines on Azure, and database solutions.",
       tags: [
         "React",
         "TypeScript",
