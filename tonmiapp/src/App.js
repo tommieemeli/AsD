@@ -105,7 +105,7 @@ function SignDialog({ onClose }) {
     <Dialog title="Weathered Signpost" onClose={onClose}>
       <TypeText
         text={
-          "Welcome to the Realm of Tommi Haapa — Software Developer.\n\nFollow the torchlit roads:\n▲ North — Hall of Projects\n► East — Mage Tower of Skills & the Quest Board\n◄ West — a hidden treasure in the woods\n✦ Far north-east — the Portal of Contact"
+          "Welcome to the Realm of Tommi Haapa — Software Engineer.\n\nFollow the torchlit roads:\n▲ North — Hall of Projects\n► East — Mage Tower of Skills & the Quest Board\n◄ West — a hidden treasure in the woods\n✦ Far north-east — the Portal of Contact"
         }
       />
       <div className="dlg-hint">Move: WASD / Arrow keys · Interact: E</div>
@@ -270,7 +270,7 @@ function Hud({ discovered, prompt, isTouch }) {
     <>
       <div className="hud-plate">
         <div className="hud-name">TOMMI HAAPA</div>
-        <div className="hud-sub">Lv.30 Software Developer</div>
+        <div className="hud-sub">Lv.30 Software Engineer</div>
         <div className="hud-bar hp">
           <div style={{ width: "100%" }} />
         </div>

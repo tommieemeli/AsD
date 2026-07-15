@@ -88,7 +88,7 @@ export const JOBS = [
 
 export const ABOUT = {
   name: "Tommi Haapa",
-  title: "Software Developer",
+  title: "Software Engineer",
   level: 30,
   text:
     "Well met, traveler! I am Tommi — a software engineer from Finland. " +
